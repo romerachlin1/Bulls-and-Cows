@@ -1,0 +1,7 @@
+C:\Users\romer\OneDrive\Desktop\B25 Ex05 RomeRachlin 209793819 GayaPalti 322383175\B25 Ex05 RomeRachlin 209793819 GayaPalti 322383175\Ex05\bin\Debug\Ex05.exe.config
+C:\Users\romer\OneDrive\Desktop\B25 Ex05 RomeRachlin 209793819 GayaPalti 322383175\B25 Ex05 RomeRachlin 209793819 GayaPalti 322383175\Ex05\bin\Debug\Ex05.exe
+C:\Users\romer\OneDrive\Desktop\B25 Ex05 RomeRachlin 209793819 GayaPalti 322383175\B25 Ex05 RomeRachlin 209793819 GayaPalti 322383175\Ex05\bin\Debug\Ex05.pdb
+C:\Users\romer\OneDrive\Desktop\B25 Ex05 RomeRachlin 209793819 GayaPalti 322383175\B25 Ex05 RomeRachlin 209793819 GayaPalti 322383175\Ex05\obj\Debug\Ex05.csproj.AssemblyReference.cache
+C:\Users\romer\OneDrive\Desktop\B25 Ex05 RomeRachlin 209793819 GayaPalti 322383175\B25 Ex05 RomeRachlin 209793819 GayaPalti 322383175\Ex05\obj\Debug\Ex05.csproj.CoreCompileInputs.cache
+C:\Users\romer\OneDrive\Desktop\B25 Ex05 RomeRachlin 209793819 GayaPalti 322383175\B25 Ex05 RomeRachlin 209793819 GayaPalti 322383175\Ex05\obj\Debug\Ex05.exe
+C:\Users\romer\OneDrive\Desktop\B25 Ex05 RomeRachlin 209793819 GayaPalti 322383175\B25 Ex05 RomeRachlin 209793819 GayaPalti 322383175\Ex05\obj\Debug\Ex05.pdb
